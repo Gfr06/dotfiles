@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = georgi.mihov.06@gmail.com
+	name = Georgi Mihov
